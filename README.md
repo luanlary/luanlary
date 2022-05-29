@@ -16,6 +16,6 @@ Today my focus is design and maintain microservices and distributed applications
 Right now my new passions are Haskel and Go, but of course, I do not care about the tools, I like to create solutions.
 
 ## My profiles on the web
-LinkedIn |  Stack overflow
+LinkedIn 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-lary-lima-3088a317a/)
