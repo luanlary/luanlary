@@ -4,7 +4,7 @@
 
 My name is Luan Lary. In the last two decades I have been working in different areas of technology. 
 
-Although My degree is in Physics and Software Engineer. I am a true enthusiast of software development and design. 
+My degrees are in Physics and Software Engineering. I am a true enthusiast of software development and design. 
 
 I worked with desktop development with low and high level languages since, Assemblyx86, C, C++ Pascal Object Pascal and C#. 
 I also worked with Web development with PHP, Pearl, Asp.Net and Javascript since vanila to the great reactive frameorks, from the old ones to the top of hype. 
